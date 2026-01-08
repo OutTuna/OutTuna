@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
-<h3 align="center">just do sum things in the ethernet</h3>
+<h3 align="center">just do sum things in the ethernet</h3> <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=outtuna&label=Profile%20views&color=0e75b6&style=flat" alt="outtuna" /> </p>
 
