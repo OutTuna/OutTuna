@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/outtuna](github.com/outtuna)
 
+- 🤝 I'm looking for help with *Dota2 sdk*, **and how to reverse some basics in Dota**
+
 - ⚡ Fun fact **i'm musician, who loves sometimes do smth in coding**
 
 
