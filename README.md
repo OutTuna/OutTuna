@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **i'm musician, who loves sometimes do smth in coding**
 
+- <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-5600&gpu=nvidia-geforce-rtx-3060-ti&memory=32768"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-5-5600/32/nvidia-geforce-rtx-3060-ti/small.png" alt="PCGameBenchmark Signature"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
